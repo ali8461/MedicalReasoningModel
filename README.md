@@ -72,7 +72,6 @@ The model was trained for **10 epochs** with continuous monitoring via **Weights
 
 ### 🧩 Learning Curve
 
-*(Replace this with your actual plot image)*
 
 ![Learning Curve](results/learning_curve.png)
 
