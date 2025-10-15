@@ -113,13 +113,6 @@ This association highlights the importance of **colonoscopy screening** in patie
 
 ---
 
-## 🖼️ Visualization Results
-
-
-`results/learning_curve.png`
-
----
-
 ## 📁 Repository Structure
 
 ```
